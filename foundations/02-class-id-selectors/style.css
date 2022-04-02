@@ -1,4 +1,16 @@
-p.class{
+.odd{
     background-color: pink;
     font-family: 'veranda' , 'dejavu sans' , 'sans-serif';
+}
+#line2{
+    color: blue;
+    font-size: 36px;
+}
+.extra-odd{
+    font-size: 24px;
+}
+#line4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
